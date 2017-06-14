@@ -1,3 +1,3 @@
 Stream on fire 
-MyFlixx                   Please, allow the build to fully load before making any selection after installing.
+MyFlixx            
 Test
