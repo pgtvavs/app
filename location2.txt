@@ -1,3 +1,4 @@
 http://www.lodi.mobi/v4/lodi.zip
 http://www.lodi.mobi/builds/sof.zip
 http://www.lodi.mobi/builds/sof.zip                                                                                                      
+http://www.lodi.mobi/v4/skynet.zip
